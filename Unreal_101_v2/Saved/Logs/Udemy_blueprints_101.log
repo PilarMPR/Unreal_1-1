@@ -1641,3 +1641,205 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.09-02.58.24:917][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2024.07.09-02.58.24:949][875]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2024.07.09-02.58.24:954][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.07.09-02.59.32:946][415]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.09-02.59.46:412][889]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerSphere
+[2024.07.09-02.59.46:412][889]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerSphere
+[2024.07.09-02.59.46:413][889]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerSphere as actor: TriggerSphere /Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.TriggerSphere_0
+[2024.07.09-02.59.46:413][889]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerSphere as actor: TriggerSphere /Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.TriggerSphere_0
+[2024.07.09-03.00.24:878][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.00.24:937][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-03.00.24:938][209]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.00.24:959][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.09-03.00.24:991][209]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-03.00.24:991][209]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMap345A2B9B4F80E158D2B2F38F2BA326DB.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-03.00.24:998][209]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.00.24:999][209]LogFileHelpers: Saving map 'LV_TestMap' took 0.063
+[2024.07.09-03.00.25:005][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 525 ms)
+[2024.07.09-03.00.25:006][209]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-03.00.25:006][209]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-03.02.26:162][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.09-03.03.31:052][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.03.31:108][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-03.03.31:108][437]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.03.31:130][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.07.09-03.03.31:165][437]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-03.03.31:166][437]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMap33CF76FF4C4ABCACFA0571999DD7A2B9.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-03.03.31:173][437]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.03.31:173][437]LogFileHelpers: Saving map 'LV_TestMap' took 0.066
+[2024.07.09-03.03.31:179][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 653 ms)
+[2024.07.09-03.03.31:180][437]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-03.03.31:180][437]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-03.06.08:070][825]BlueprintLog: New page: Compile LV_TestMap
+[2024.07.09-03.06.08:093][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.07.09-03.06.08:704][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.06.08:794][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-03.06.08:795][878]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.06.08:813][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.09-03.06.08:849][878]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-03.06.08:849][878]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMapAEF9DFFD463603CCE4A8A2A3F0A46451.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-03.06.08:856][878]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.06.08:857][878]LogFileHelpers: Saving map 'LV_TestMap' took 0.064
+[2024.07.09-03.06.08:863][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 811 ms)
+[2024.07.09-03.06.08:865][878]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-03.06.08:865][878]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-03.06.14:846][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.06.14:911][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-03.06.14:912][568]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.06.14:931][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.07.09-03.06.14:966][568]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-03.06.14:966][568]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMapC57C83AA46E1D5E8A907D49E56630FC9.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-03.06.14:973][568]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.06.14:974][568]LogFileHelpers: Saving map 'LV_TestMap' took 0.063
+[2024.07.09-03.06.14:979][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 943 ms)
+[2024.07.09-03.06.14:980][568]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-03.06.14:980][568]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-03.06.37:212][173]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.07.09-03.06.37:215][173]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.09-03.06.54:303][170]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.07.09-03.06.54:306][170]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.09-03.08.08:666][212]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.07.09-03.08.08:666][212]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.07.09-03.08.18:234][332]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.09-03.08.33:123][ 57]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.07.09-03.08.33:126][ 57]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.09-03.08.55:847][  0]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.07.09-03.10.26:871][348]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.07.09-03.10.26:873][348]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.09-03.10.40:269][927]BlueprintLog: New page: Compile LV_TestMap
+[2024.07.09-03.10.40:293][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.07.09-03.10.40:896][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.10.40:958][979]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-03.10.40:959][979]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.10.40:982][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.07.09-03.10.41:021][979]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-03.10.41:021][979]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMap8C27531245F810C1703E3DB219730D17.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-03.10.41:028][979]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.10.41:030][979]LogFileHelpers: Saving map 'LV_TestMap' took 0.072
+[2024.07.09-03.10.41:035][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.08 sec)
+[2024.07.09-03.10.41:037][979]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-03.10.41:037][979]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-03.10.48:171][213]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.09-03.10.48:171][213]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.09-03.10.48:171][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: ================================================
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Total job queries 126, among them cache hits 30 (23.81%)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 68 distinct outputs (80.95%)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: RAM used: 1.88 MiB of 6.40 GiB budget. Usage: 0.03%
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Shaders Compiled: 84
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Jobs assigned 92, completed 84 (91.30%)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Average time worker was idle: 157.21 s
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 0.61 s
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Job execution time: average 0.29 s, max 0.71 s
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Job life time (pending + execution): average 0.49 s, max 0.87
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Shader code size: average 37.122 KiB, min 4.355 KiB, max 74.301 KiB
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.78 s
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Average processing rate: 30.25 jobs/sec
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Total thread time: 13.7 s
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Total thread preprocess time: 1.51 s
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Percentage time preprocessing: 11.02%
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Effective parallelization: 4.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   21 times, average 0.22 sec, max 0.66 sec, min 0.13 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                                FAnisotropyVS (compiled    2 times, average 0.16 sec, max 0.17 sec, min 0.16 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.96% of total time (compiled   21 times, average 0.22 sec, max 0.66 sec, min 0.13 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.85% of total time (compiled   21 times, average 0.16 sec, max 0.20 sec, min 0.13 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.83% of total time (compiled   12 times, average 0.16 sec, max 0.20 sec, min 0.12 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.21% of total time (compiled   14 times, average 0.08 sec, max 0.17 sec, min 0.05 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.14% of total time (compiled    3 times, average 0.14 sec, max 0.17 sec, min 0.10 sec)
+[2024.07.09-03.10.48:733][235]LogShaderCompilers: Display: ================================================
+[2024.07.09-03.10.49:064][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.09-03.12.03:637][756]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.09-03.12.03:678][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.09-03.12.04:370][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.12.04:440][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.09-03.12.04:561][818]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.09-03.12.04:561][818]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/BP_ThirdPersonCharacterB7FBA1524FC11E4B1AC31CBDD8213CEC.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.09-03.12.04:572][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 1.28 sec)
+[2024.07.09-03.12.04:574][818]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.09-03.12.04:574][818]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.09-03.12.13:653][834]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.09-03.12.13:694][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.09-03.12.14:254][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.12.14:401][872]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.09-03.12.14:401][872]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/BP_ThirdPersonCharacterBA2CA376437C8CB3A6EBC195495FB150.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.09-03.12.14:407][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 1.43 sec)
+[2024.07.09-03.12.14:409][872]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.09-03.12.14:409][872]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.09-03.12.30:220][671]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.09-03.12.30:263][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.09-03.12.30:855][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.12.31:003][723]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.09-03.12.31:003][723]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/BP_ThirdPersonCharacterEFFD9B2F4FC8CA1018DB95BA5F77FCE2.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.09-03.12.31:009][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 1.59 sec)
+[2024.07.09-03.12.31:013][723]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.09-03.12.31:013][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.09-03.14.20:045][532]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.09-03.14.20:094][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.07.09-03.14.20:785][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.14.20:945][584]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.09-03.14.20:946][584]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/BP_ThirdPersonCharacter83546826411860CA887122B9F2AB6CC1.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.09-03.14.20:951][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 1.75 sec)
+[2024.07.09-03.14.20:953][584]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.09-03.14.20:953][584]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.09-03.16.40:154][488]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.09-03.16.40:206][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.09-03.16.41:081][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.16.41:217][570]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.09-03.16.41:218][570]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/BP_ThirdPersonCharacterE91F3ABB47B1ED6F6929F89653BE9DCA.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.09-03.16.41:223][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 1.89 sec)
+[2024.07.09-03.16.41:226][570]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.09-03.16.41:226][570]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.09-03.17.04:584][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.17.04:721][327]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.09-03.17.04:721][327]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/BP_ThirdPersonCharacterD4D8F8D54260CCFBE84615B98559B787.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.09-03.17.04:728][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 2.04 sec)
+[2024.07.09-03.17.04:729][327]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.09-03.17.04:729][327]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.09-03.17.05:164][371]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.09-03.17.05:212][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.09-03.18.23:837][395]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.07.09-03.18.23:841][395]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.09-03.18.31:163][260]BlueprintLog: New page: Compile LV_TestMap
+[2024.07.09-03.18.31:187][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.07.09-03.18.31:863][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.18.31:927][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-03.18.31:928][318]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.18.31:950][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.09-03.18.31:985][318]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-03.18.31:985][318]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMap509147C84BB72C6693C81FA6955C717F.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-03.18.31:993][318]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.18.31:993][318]LogFileHelpers: Saving map 'LV_TestMap' took 0.067
+[2024.07.09-03.18.32:000][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 2.17 sec)
+[2024.07.09-03.18.32:002][318]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-03.18.32:002][318]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-03.19.41:361][566]BlueprintLog: New page: Compile LV_TestMap
+[2024.07.09-03.19.41:384][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.09-03.21.20:183][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.21.20:239][ 77]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-03.21.20:240][ 77]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.21.20:261][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.09-03.21.20:298][ 77]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-03.21.20:298][ 77]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMap63762B63461D1F9D8DA50CA76F739867.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-03.21.20:305][ 77]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-03.21.20:306][ 77]LogFileHelpers: Saving map 'LV_TestMap' took 0.067
+[2024.07.09-03.21.20:314][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 2.30 sec)
+[2024.07.09-03.21.20:316][ 77]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-03.21.20:316][ 77]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-03.22.59:753][719]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.07.09-03.22.59:757][719]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.09-03.23.50:888][484]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.09-03.23.50:945][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.07.09-03.23.51:860][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-03.23.52:011][560]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.09-03.23.52:011][560]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/BP_ThirdPersonCharacterBFCB39D84431EEF6E9CDAE9D2D962F30.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.09-03.23.52:020][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 2.46 sec)
+[2024.07.09-03.23.52:022][560]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.09-03.23.52:022][560]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.09-03.23.54:062][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
