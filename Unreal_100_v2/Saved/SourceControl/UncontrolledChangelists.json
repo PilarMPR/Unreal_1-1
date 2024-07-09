@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_ExamplePickup.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_modularConstructScript.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Sub_Level_01.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/Sub_Level_01.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_ExamplePickup.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_modularConstructScript.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_LV_Settings.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/widgets/WBP_HUD.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_CeelingLight.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/Actions/IA_sprint.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_MouseEvents.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/Framework/BP_PlayerController.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_OnClicked_mouseEvent.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_onReleased_MouseEvent.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_eventHit_example.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_Damage.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_eventHit.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/Actions/IA_StopPlay.uasset"
+			]
+		}
+	]
+}
