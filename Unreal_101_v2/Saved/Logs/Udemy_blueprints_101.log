@@ -1186,3 +1186,458 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.09-02.53.13:339][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms
 [2024.07.09-02.53.13:341][857]AssetCheck: New page: Asset Save: LV_TestMap
 [2024.07.09-02.53.13:342][857]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-02.56.29:026][311]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.09-02.56.29:031][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.09-02.56.29:032][311]PIE: New page: PIE session: LV_TestMap (9 Jul 2024, 06:56:29)
+[2024.07.09-02.56.29:036][311]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.07.09-02.56.29:036][311]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.07.09-02.56.29:036][311]LogPlayLevel: Creating play world package: /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.09-02.56.29:042][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005611s)
+[2024.07.09-02.56.29:042][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scripting/Levels/LV_TestMap.LV_TestMap to /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap (0.005656s)
+[2024.07.09-02.56.29:044][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.09-02.56.29:045][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.09-02.56.29:045][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-02.56.29:045][311]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.09-02.56.29:046][311]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2024.07.09-02.56.29:046][311]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.07.09-02.56.29:046][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.09-02.56.29:046][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.09-02.56.29:046][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.09-02.56.29:046][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.09-02.56.29:046][311]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.09-02.56.29:046][311]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.09-02.56.29:046][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.09-02.56.29:046][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.09-02.56.29:046][311]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.09-02.56.29:046][311]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.09-02.56.29:046][311]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.09-02.56.29:048][311]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.09-02.56.29:069][311]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (TUF GAMING H1 Wireless)
+[2024.07.09-02.56.29:069][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.09-02.56.29:069][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.09-02.56.29:069][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.09-02.56.29:070][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.07.09-02.56.29:070][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.07.09-02.56.29:071][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.07.09-02.56.29:071][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.07.09-02.56.29:071][311]LogInit: FAudioDevice initialized with ID 2.
+[2024.07.09-02.56.29:071][311]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_TestMap'.
+[2024.07.09-02.56.29:071][311]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.07.09-02.56.29:078][311]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.09-02.56.29:085][311]LogWorld: Bringing World /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap up for play (max tick rate 0) at 2024.07.09-04.56.29
+[2024.07.09-02.56.29:086][311]LogWorld: Bringing up level for play took: 0.002251
+[2024.07.09-02.56.29:087][311]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.07.09-02.56.29:097][311]LogBlueprintUserMessages: [LV_TestMap_C_5] X=-1540.000 Y=60.000 Z=91.650
+[2024.07.09-02.56.29:098][311]PIE: Server logged in
+[2024.07.09-02.56.29:100][311]PIE: Play in editor total start time 0.068 seconds.
+[2024.07.09-02.56.29:110][311]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Birds01'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: ================================================
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: Total job queries 101, among them cache hits 21 (20.79%)
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: Tracking 67 distinct input hashes that result in 51 distinct outputs (76.12%)
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: RAM used: 1.43 MiB of 6.40 GiB budget. Usage: 0.02%
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: Shaders Compiled: 67
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: Jobs assigned 76, completed 67 (88.16%)
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: Average time worker was idle: 56.00 s
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 0.61 s
+[2024.07.09-02.56.29:458][343]LogShaderCompilers: Display: Job execution time: average 0.29 s, max 0.71 s
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 0.87
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Shader code size: average 34.33 KiB, min 4.359 KiB, max 66.535 KiB
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.82 s
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Jobs were issued in 76 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Average processing rate: 36.89 jobs/sec
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Total thread time: 11.75 s
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Total thread preprocess time: 1.27 s
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Percentage time preprocessing: 10.81%
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Effective parallelization: 6.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   18 times, average 0.23 sec, max 0.66 sec, min 0.13 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.17 sec, max 0.20 sec, min 0.13 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 34.92% of total time (compiled   18 times, average 0.23 sec, max 0.66 sec, min 0.13 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.71% of total time (compiled   16 times, average 0.17 sec, max 0.20 sec, min 0.13 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.08% of total time (compiled   11 times, average 0.16 sec, max 0.20 sec, min 0.12 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.81% of total time (compiled   11 times, average 0.08 sec, max 0.17 sec, min 0.05 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 3.43% of total time (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.07.09-02.56.29:459][343]LogShaderCompilers: Display: ================================================
+[2024.07.09-02.56.48:441][616]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:441][616]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:441][616]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:441][616]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:466][619]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:466][619]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:466][619]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:466][619]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:474][620]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:474][620]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:474][620]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:474][620]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:482][621]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:482][621]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:482][621]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:482][621]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:490][622]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:490][622]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:490][622]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:490][622]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:499][623]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:499][623]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:499][623]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:499][623]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:508][624]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:508][624]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:508][624]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:508][624]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:516][625]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:516][625]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:516][625]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:516][625]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:524][626]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:524][626]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:524][626]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:524][626]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:532][627]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:532][627]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:532][627]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:532][627]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:541][628]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:541][628]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:541][628]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:541][628]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:549][629]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:549][629]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:549][629]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:549][629]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:557][630]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:557][630]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:557][630]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:557][630]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:566][631]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:566][631]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:566][631]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:566][631]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:574][632]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:574][632]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:574][632]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:574][632]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:582][633]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:582][633]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:582][633]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:582][633]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:590][634]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:590][634]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:590][634]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:590][634]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:599][635]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:599][635]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:599][635]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:599][635]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:608][636]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:608][636]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:608][636]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:608][636]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:615][637]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:616][637]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:616][637]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:616][637]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:624][638]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:624][638]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:624][638]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:624][638]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:632][639]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:632][639]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:632][639]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:632][639]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:641][640]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:641][640]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:641][640]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:641][640]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:649][641]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:649][641]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:649][641]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:649][641]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:657][642]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:657][642]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:657][642]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:657][642]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:666][643]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:666][643]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:666][643]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:666][643]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:674][644]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:674][644]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:674][644]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:674][644]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:682][645]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:682][645]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:682][645]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:682][645]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:690][646]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:690][646]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:690][646]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:690][646]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:699][647]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:699][647]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:699][647]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:699][647]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:708][648]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:708][648]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:708][648]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:708][648]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:716][649]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:716][649]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:716][649]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:716][649]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:724][650]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:724][650]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:724][650]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:724][650]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:733][651]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:733][651]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:733][651]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:733][651]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:740][652]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:740][652]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:740][652]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:740][652]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:749][653]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:749][653]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.48:749][653]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.48:749][653]LogBlueprintUserMessages: [BP_eventHit_example_C_3] cube
+[2024.07.09-02.56.50:274][836]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:274][836]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:282][837]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:282][837]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:299][839]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:299][839]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:308][840]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:308][840]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:316][841]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:316][841]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:324][842]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:324][842]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:332][843]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:332][843]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:341][844]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:341][844]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:349][845]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:349][845]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:358][846]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:358][846]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:366][847]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:366][847]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:374][848]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:374][848]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:383][849]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:383][849]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:390][850]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:390][850]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:399][851]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:399][851]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:408][852]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:408][852]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:416][853]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:416][853]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:424][854]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:425][854]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:433][855]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:433][855]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:440][856]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:440][856]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:449][857]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:449][857]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:457][858]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:457][858]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:466][859]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:466][859]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:474][860]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:474][860]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:483][861]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:483][861]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:490][862]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:490][862]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:499][863]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:499][863]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:508][864]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:508][864]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:516][865]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:516][865]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:524][866]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:524][866]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:532][867]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:532][867]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:541][868]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:541][868]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:549][869]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:549][869]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:557][870]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:557][870]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:566][871]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:566][871]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:574][872]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:574][872]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:583][873]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:583][873]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:591][874]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:591][874]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:599][875]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:599][875]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:607][876]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:607][876]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:616][877]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:616][877]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:624][878]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:624][878]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:632][879]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:633][879]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:649][881]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:649][881]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:658][882]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:658][882]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:666][883]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:666][883]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:982][921]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:990][922]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.50:999][923]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:007][924]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:016][925]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:024][926]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:033][927]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:041][928]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:049][929]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:057][930]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:066][931]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:074][932]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:082][933]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:090][934]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:099][935]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:107][936]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:116][937]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:124][938]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:133][939]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:140][940]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:149][941]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:157][942]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:166][943]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:174][944]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:182][945]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:191][946]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:199][947]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:208][948]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:216][949]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:224][950]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:232][951]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:241][952]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:249][953]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:257][954]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:266][955]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:274][956]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:283][957]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:291][958]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:299][959]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:307][960]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:316][961]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.56.51:324][962]LogBlueprintUserMessages: [BP_eventHit_example_C_3] BP_ThirdPersonCharacter_C_0
+[2024.07.09-02.57.20:170][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.09-02.57.20:170][420]LogWorld: BeginTearingDown for /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.09-02.57.20:170][420]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.09-02.57.20:171][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.09-02.57.20:173][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.09-02.57.20:174][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.09-02.57.20:176][420]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.09-02.57.20:176][420]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.07.09-02.57.20:177][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.09-02.57.20:178][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.09-02.57.20:191][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.09-02.57.20:194][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.09-02.57.20:227][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.09-02.57.20:243][422]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.07.09-02.57.33:487][983]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.LV_TestMap
+[2024.07.09-02.57.33:488][983]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.09-02.57.33:488][983]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-02.57.33:495][983]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.07.09-02.57.34:257][983]LogSlate: Took 0.003703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.09-02.57.34:262][983]LogSlate: Took 0.003274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.09-02.57.36:672][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-02.57.36:738][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-02.57.36:739][236]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-02.57.36:761][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.07.09-02.57.36:793][236]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-02.57.36:794][236]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMap949E2E984C691CDA601DD7A87BBAC20C.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-02.57.36:801][236]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-02.57.36:801][236]LogFileHelpers: Saving map 'LV_TestMap' took 0.063
+[2024.07.09-02.57.36:807][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 267 ms)
+[2024.07.09-02.57.36:808][236]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-02.57.36:808][236]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-02.58.10:374][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-02.58.10:436][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-02.58.10:437][178]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-02.58.10:459][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.09-02.58.10:491][178]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.09-02.58.10:491][178]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Saved/LV_TestMap65AF907E422C5928D532DAB521D599E6.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.09-02.58.10:498][178]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
+[2024.07.09-02.58.10:499][178]LogFileHelpers: Saving map 'LV_TestMap' took 0.064
+[2024.07.09-02.58.10:505][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 398 ms)
+[2024.07.09-02.58.10:506][178]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.09-02.58.10:506][178]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.09-02.58.12:770][447]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.09-02.58.12:776][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.09-02.58.12:776][447]PIE: New page: PIE session: LV_TestMap (9 Jul 2024, 06:58:12)
+[2024.07.09-02.58.12:810][447]LogPlayLevel: Creating play world package: /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.09-02.58.12:816][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006375s)
+[2024.07.09-02.58.12:816][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scripting/Levels/LV_TestMap.LV_TestMap to /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap (0.006413s)
+[2024.07.09-02.58.12:828][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.09-02.58.12:828][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.09-02.58.12:828][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.09-02.58.12:828][447]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.09-02.58.12:829][447]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2024.07.09-02.58.12:829][447]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.07.09-02.58.12:829][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.09-02.58.12:829][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.09-02.58.12:829][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.09-02.58.12:829][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.09-02.58.12:829][447]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.09-02.58.12:829][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.09-02.58.12:829][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.09-02.58.12:829][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.09-02.58.12:829][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.09-02.58.12:829][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.09-02.58.12:829][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.09-02.58.12:830][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.09-02.58.12:852][447]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (TUF GAMING H1 Wireless)
+[2024.07.09-02.58.12:852][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.09-02.58.12:852][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.09-02.58.12:852][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.09-02.58.12:853][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.07.09-02.58.12:853][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.07.09-02.58.12:854][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.07.09-02.58.12:854][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.07.09-02.58.12:854][447]LogInit: FAudioDevice initialized with ID 3.
+[2024.07.09-02.58.12:854][447]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV_TestMap'.
+[2024.07.09-02.58.12:854][447]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.09-02.58.12:856][447]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.09-02.58.12:859][447]LogWorld: Bringing World /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap up for play (max tick rate 0) at 2024.07.09-04.58.12
+[2024.07.09-02.58.12:859][447]LogWorld: Bringing up level for play took: 0.001190
+[2024.07.09-02.58.12:861][447]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.07.09-02.58.12:863][447]LogBlueprintUserMessages: [LV_TestMap_C_5] X=-1540.000 Y=60.000 Z=91.650
+[2024.07.09-02.58.12:863][447]PIE: Server logged in
+[2024.07.09-02.58.12:864][447]PIE: Play in editor total start time 0.089 seconds.
+[2024.07.09-02.58.12:867][447]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Birds01'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.09-02.58.24:841][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.09-02.58.24:842][874]LogWorld: BeginTearingDown for /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.09-02.58.24:842][874]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.09-02.58.24:842][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.09-02.58.24:844][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.09-02.58.24:846][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.09-02.58.24:855][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.09-02.58.24:855][874]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.09-02.58.24:855][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.09-02.58.24:857][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.09-02.58.24:912][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.09-02.58.24:917][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.07.09-02.58.24:949][875]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.07.09-02.58.24:954][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
