@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/pmart/Desktop/Unreal_101/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_ExamplePickup.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap",
