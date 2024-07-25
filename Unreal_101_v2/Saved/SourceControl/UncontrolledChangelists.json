@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/pmart/Desktop/Unreal_101/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/pmart/Desktop/Unreal_101/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_ExamplePickup.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap",
@@ -38,10 +40,14 @@
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_eventHit_example.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/LV_TestMap.umap",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+<<<<<<< HEAD
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Overview/BP_Turret.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/Pilu_try.umap",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Overview/BP_Bullet.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Overview/BP_MouseOverlapped.uasset",
+=======
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Overview/BP_ExamplePickup.uasset",
+>>>>>>> Tutorials
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_Damage.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_eventHit.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/Actions/IA_StopPlay.uasset"
