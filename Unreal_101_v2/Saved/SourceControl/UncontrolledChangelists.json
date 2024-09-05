@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Characters/Mannequins/Animations/Quinn/Standing_Idle_03.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Scripting/Levels/Pilu_try.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_Blueprints_101_v2/Unreal_101_v2/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"C:/Users/pmart/Desktop/Unreal_101/Unreal_101_v2/Content/Scripting/Levels/Pilu_try.umap",
 				"C:/Users/pmart/Desktop/Unreal_101/Unreal_101_v2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/pmart/Desktop/Unreal_101/Unreal_101_v2/Content/Scripting/Overview/BP_Bullet.uasset",
